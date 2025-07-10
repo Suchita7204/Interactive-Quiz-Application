@@ -48,4 +48,11 @@ In conclusion, the Interactive Quiz Application is not just a learning tool for 
 
 <img width="1899" height="860" alt="Image" src="https://github.com/user-attachments/assets/de662e3a-b045-47d6-bc77-7f34cd1a3053" />
 
+<img width="1038" height="637" alt="Image" src="https://github.com/user-attachments/assets/4b6f5c7f-57ae-4f7c-ac07-039e3291b8b8" />
+
+<img width="1072" height="873" alt="Image" src="https://github.com/user-attachments/assets/b5c2cca4-3b5f-4e43-a0c7-53aed888c9cc" />
+
+<img width="767" height="602" alt="Image" src="https://github.com/user-attachments/assets/38342921-c5c2-4fca-bc89-9d46f6be96e6" />
+
+
 
