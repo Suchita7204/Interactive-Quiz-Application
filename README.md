@@ -1,6 +1,6 @@
 # Interactive-Quiz-Application
 
-*Company Name*:CoDTECH IT SOLUTIONS
+*Company Name*:CODTECH IT SOLUTIONS
 
 *NAME*:SUCHITA SINGH
 
@@ -45,5 +45,7 @@ In conclusion, the Interactive Quiz Application is not just a learning tool for 
 
 
 *OUTPUT*
+
+<img width="1899" height="860" alt="Image" src="https://github.com/user-attachments/assets/de662e3a-b045-47d6-bc77-7f34cd1a3053" />
 
 
